@@ -1,0 +1,57 @@
+.rc-input {
+    border-color: #3498db;
+}
+
+.rc-button {
+    background-color: #3498db;
+}
+
+.rc-del-button {
+    font-size: 12px;
+}
+
+.rc-call-button {
+    display: block;
+    width: 55px;
+    height: 55px;
+    margin-left: 74px;
+    border: 2px solid #3498db;
+    color: green;
+    background-color: #FFF;
+}
+
+.rc-button:hover {
+    background-color: #2980b9;
+}
+
+.rc-panel {
+    border: 2px solid #3498db;
+}
+
+.rc-panel-title {
+    background-color: #3498db;
+}
+
+.rc-dial-wrapper {
+    width: 202px;
+}
+
+.rc-dial-button {
+    margin: 5px;
+    background-color: #fff;
+    border: 1px solid #3498db;
+}
+
+.rc-message {}
+
+.rc-error-message {}
+
+.rc-calllog {
+    border-bottom: 1px solid #3498db;
+}
+
+.rc-calllog-name {}
+
+.rc-calllog-time {}
+
+.rc-calllog-type {}
